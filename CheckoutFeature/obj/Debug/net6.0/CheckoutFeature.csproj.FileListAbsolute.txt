@@ -1,0 +1,15 @@
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/bin/Debug/net6.0/CheckoutFeature
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/bin/Debug/net6.0/CheckoutFeature.deps.json
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/bin/Debug/net6.0/CheckoutFeature.runtimeconfig.json
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/bin/Debug/net6.0/CheckoutFeature.dll
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/bin/Debug/net6.0/CheckoutFeature.pdb
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.csproj.AssemblyReference.cache
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.AssemblyInfoInputs.cache
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.AssemblyInfo.cs
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.csproj.CoreCompileInputs.cache
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.dll
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/refint/CheckoutFeature.dll
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.pdb
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/CheckoutFeature.genruntimeconfig.cache
+/Users/inmetadeveloper/Downloads/CheckoutFeature/CheckoutFeature/obj/Debug/net6.0/ref/CheckoutFeature.dll

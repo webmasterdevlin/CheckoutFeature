@@ -1,0 +1,40 @@
+We expect a working, well-written solution.
+PS! Recommends that you share the code via onedrive, dropbox or similar.
+Zip is stopped by our firewall. This is sent to Anthe and Pål the day before.
+
+Background
+
+A major supplier of retail systems will make changes to its checkout solution.
+The core functionality of the customer's solution is registration of goods at checkout and calculation of amounts to be paid.
+The module for calculating prices will now be re-implemented. Several of the customers need a more flexible pricing model.
+Your task will be to implement this based on the various requirements presented.
+Errors in the price calculation can not occur.
+The customer therefore follows a strict development regime with test-driven development.
+
+Task
+
+You must implement a function that calculates the total price of a shopping cart.
+For simplicity, the product range consists of only 3 items: rubber gloves, stethoscope and talcum powder.
+We use the super-simple PLU codes on A, B and C, respectively.
+Items are sent over the assembly line in random order.
+The function must be able to take in the goods as they arrive and always have the right price.
+You use your own PC, and your favorite IDE.
+The function is written in C # using TDD. This function should include a list of items (PLU code, and quantity).
+There may be several elements of the same PLU in the list.
+It must return the price for the entire shopping cart.
+
+PLU A
+-Rubber gloves (sold in pairs)
+-Unit price SEK 59.90 (per pair)
+-When buying 2 pairs, you get the third for free
+
+PLU B
+-Stethoscope
+-Unit price SEK 399
+-3 pcs for DKK 999
+
+PLU C - Talc (sold in bulk)
+-Unit price 19.54 per kg
+
+-The smallest unit you operate with is 1 øre
+-We can only pay in full kroner
